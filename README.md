@@ -1,2 +1,1 @@
-# Spring-LaurSpilca
-Remote readme file
+Spring and Spring boot from Laur Spilca
