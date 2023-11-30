@@ -7,3 +7,6 @@ episode 10 -> JDBC API, RequestBody,ResponseBody,RequestHeader,PathVariable,setH
 ### Lesson11 More about Spring Data, JPA
 
 episode 11-> Spring data, jpa, create query in JpaRepository, queries with data jpa with method names.
+
+episode 12-> episode1--Spring data jpa, Sorting and Pagination rules. Custom Jpa Queries.
+episode2--Spring data JDBC, No entity just model, CrudRepository
